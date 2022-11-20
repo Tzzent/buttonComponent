@@ -31,6 +31,7 @@
 ## Overview
 
 Desktop 🖥️ <br> <br>
+--No responsive...
 
 ![Screenshot 2022-11-19 at 18-57-52 React App](https://user-images.githubusercontent.com/86677547/202876428-2530b12e-99db-4b3e-a0d4-794ae4be1432.png)
 
